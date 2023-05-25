@@ -1,3 +1,6 @@
 [submodule "Plangothic-Project"]
 	path = Plangothic-Project
 	url = https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project
+[submodule "max-hana"]
+	path = max-hana
+	url = https://github.com/max32002/max-hana
