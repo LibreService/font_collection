@@ -15,6 +15,7 @@ Version|Font
 -|-
 0.1.x|遍黑体
 0.2.x|花园明朝
+0.3.x|一点明朝
 
 ## License
 Every font referenced in this repo is Open Source.

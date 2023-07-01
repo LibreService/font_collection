@@ -4,3 +4,6 @@
 [submodule "max-hana"]
 	path = max-hana
 	url = https://github.com/max32002/max-hana
+[submodule "I.Ming"]
+	path = I.Ming
+	url = https://github.com/ichitenfont/I.Ming
